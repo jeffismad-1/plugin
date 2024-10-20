@@ -1,0 +1,4 @@
+name: Skyblock
+version: '1.0-SNAPSHOT'
+main: main.skyblock.Skyblock
+api-version: '1.21'
